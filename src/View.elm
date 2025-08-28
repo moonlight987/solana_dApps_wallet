@@ -12,7 +12,7 @@ import Material.Icons as Icons
 import Material.Icons.Types exposing (Icon)
 import Maybe.Extra exposing (unwrap)
 import Types exposing (..)
-
+ 
 
 view : Model -> Html Msg
 view model =
